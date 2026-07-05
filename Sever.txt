@@ -1,7 +1,7 @@
 -ADM-Hĩu-:sv.teammobi.com.vn:19129:0,
 KPAHVN SV3:sv.kpahvn.top:19129:0,
 KPAHVN sv2:14.225.207.172:19130:0,
-KPAH8X.TOP :103.165.144.66:19129:0,
+KPAH8X.TOP :sv.kpah88.top:19129:0,
 KPAH:127.0.0.1:19129:0,
 -Gã Đầu Bạc-:sv.teammobi.com.vn:19129:0,
 --Zalo Hiu-:sv.huyenthoaikpah.com:19129:0,
